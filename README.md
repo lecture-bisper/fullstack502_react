@@ -6,7 +6,7 @@
 1. 1일차
 	1. React 개발환경 구성
 	2. console 환경에서 vite 로 react 프로젝트 생성
-	3. intellij 로 react 프로젝트 생성하여
+	3. intellij 로 react 프로젝트 생성
 	4. ES6 문법 (템플릿 문자열, 전개 연산자, 객체 확장 표현식, 구조 분해 할당)
 2. 2일차
 	1. ES6 문법 (가변변수, 불변변수)
