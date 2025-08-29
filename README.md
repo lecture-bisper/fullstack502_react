@@ -25,3 +25,8 @@
 	2. 부트스트랩 기본 페이지를 컴포넌트 추출하기
 	3. 클론 코딩한 페이지를 컴포넌트 추출하기(문제 2)
 	4. state (클래스 컴포넌트의 state, 함수 컴포넌트의 state)
+5. 5일차
+	1. 클래스 컴포넌트의 생명주기 함수
+	2. 컴포넌트 상태 객체 state, 클래스 컴포넌트의 state, 함수 컴포넌트의 state
+	3. Hooks, useState, useEffect
+	4. Hooks, useMemo, useRef, CustomHook
