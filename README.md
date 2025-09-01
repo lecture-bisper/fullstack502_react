@@ -30,3 +30,10 @@
 	2. 컴포넌트 상태 객체 state, 클래스 컴포넌트의 state, 함수 컴포넌트의 state
 	3. Hooks, useState, useEffect
 	4. Hooks, useMemo, useRef, CustomHook
+6. 6일차
+	1. 이벤트 사용하기
+	2. 조건부 랜더링 - if 문을 사용한 조건부 랜더링
+	3. 조건부 랜더링 - 엘리먼트 변수를 사용한 조건부 랜더링
+	4. 조건부 랜더링 - inline if, inline if ~ else 를 사용한 조건부 랜더링
+	5. 조건부 랜더링 - 랜더링 막기
+	6. 리스트와 키
