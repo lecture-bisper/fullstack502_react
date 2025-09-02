@@ -37,3 +37,8 @@
 	4. 조건부 랜더링 - inline if, inline if ~ else 를 사용한 조건부 랜더링
 	5. 조건부 랜더링 - 랜더링 막기
 	6. 리스트와 키
+7. 7일차
+	1. Form 사용하기 - input, text, textarea
+	2. Form 사용하기 - select, checkbox, 회원 가입 페이지 만들기
+	3. Shared State - 부모 state 변수 공유하기
+	4. state 끌어 올리기 - 자식 컴포넌트의 데이터 부모 컴포넌트로 전달
