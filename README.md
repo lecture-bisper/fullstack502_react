@@ -42,3 +42,12 @@
 	2. Form 사용하기 - select, checkbox, 회원 가입 페이지 만들기
 	3. Shared State - 부모 state 변수 공유하기
 	4. state 끌어 올리기 - 자식 컴포넌트의 데이터 부모 컴포넌트로 전달
+8. 8일차
+	1. state 끌어 올리기로 회원 가입 페이지 만들기
+	2. 컴포넌트 합성 - Containment
+	3. 컴포넌트 합성 - Specialization
+	4. 컴포넌트 합성 - Containment 와 Specialization 함께 사용하기
+	5. Context - 타겟 컴포넌트로 props를 통해서 데이터 전달하기
+	6. Context - ContextAPI를 사용하여 타겟 컴포넌트로 데이터 전달하기
+	7. Context - useContext() 훅을 사용하여 Context 쉽게 사용하기
+	8. 데이터 통신 - Axios 사용하기	
