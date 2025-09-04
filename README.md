@@ -50,4 +50,9 @@
 	5. Context - 타겟 컴포넌트로 props를 통해서 데이터 전달하기
 	6. Context - ContextAPI를 사용하여 타겟 컴포넌트로 데이터 전달하기
 	7. Context - useContext() 훅을 사용하여 Context 쉽게 사용하기
-	8. 데이터 통신 - Axios 사용하기	
+	8. 데이터 통신 - Axios 사용하기
+9. 9일차
+	1. React - zustand 사용하기
+	2. React - Axios (스프링 서버와 통신)
+	3. React - Axios (단축 함수 get, post, put, delete, 파라미터 사용)
+	3. React - Axios (스프링과 리액트로 게시판 만들기)
