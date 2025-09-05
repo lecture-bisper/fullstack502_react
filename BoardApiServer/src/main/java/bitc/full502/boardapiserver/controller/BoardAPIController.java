@@ -37,7 +37,18 @@ public class BoardAPIController {
   @GetMapping("/board/{boardIdx}")
   public Object selectBoardDetail(@RequestParam("boardIdx") int boardIdx) {
 
-    return null;
+    Map<String, Object> resultData = new HashMap<>();
+    BoardDTO board = boardService.selectBoardDetail(boardIdx);
+
+    if (board != null) {
+      resultData.put("result", "success");
+      resultData.put("data", board);
+    }
+    else {
+      resultData.put("result", "error");
+    }
+
+    return resultData;
   }
 
 //  게시글 등록
